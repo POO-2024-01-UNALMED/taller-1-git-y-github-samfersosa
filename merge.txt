@@ -1,0 +1,3 @@
+nombre: Samuel Fernando Sosa Medina 
+edad: 18
+aspiraciones: dejar esta materia lo mas cercano al 5 para subir mas el promedio y aprender todo lo posible
