@@ -1,3 +1,6 @@
 nombre: Samuel Fernando Sosa Medina 
 edad: 18
 aspiraciones: dejar esta materia lo mas cercano al 5 para subir mas el promedio y aprender todo lo posible
+Puedo subir la carpeta ya que no hay ningun compañero cambiando el archivo.
+respuesta 14: es importante tener cuidado porque podria interponerme en el trabajo de uno de mis compañeros y crear un conflicto
+
